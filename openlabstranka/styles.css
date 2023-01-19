@@ -7,4 +7,18 @@ h1 {
   /* background-color: rgb(0, 140, 255); */
 }
 .O {
+  height: 482px;
+  max-width: none;
+}
+.O1 {
+  height: 482px;
+  width: 241px;
+  right: 0;
+  overflow: hidden;
+}
+.text {
+scale: 80%;
+}
+.textik {
+  
 }
